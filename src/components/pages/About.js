@@ -8,11 +8,11 @@ export default function About() {
       <div className='about'>
           <div className='information'>
             <p>
-              Buscamos desenvolver para nossos clientes a proposta de
-              desenvolvimento de software, com a proposta e objetivo de 
-              gerenciar com eficiência a tecnologia sobre robôs, que busca
-              efetivar e alcançar um futuro com um bom gerenciamento e 
-              organização.            
+              We seek to develop for our customers the proposal of
+              software development, with the proposal and objective of
+              efficiently manage robot technology, which seeks to
+              effective and achieve a future with good management and
+              organization.            
             </p>
             
           </div>
